@@ -39,6 +39,8 @@ The mobile app focuses on providing seamless data collection, interaction, and o
 
 ```
 app
+
+SIH1754
 ├── admin
 │   ├── components
 │   │   └── Sidebar.jsx
@@ -74,16 +76,9 @@ app
 ### Web Platform Structure (Next.js)
 
 ```
-C:\Users\Adil Shaikh\Desktop\codes\web-SIH1754
-│   .gitignore
-│   FirebaseConfig.js
-│   next.config.js
-│   package-lock.json
-│   package.json
-│   postcss.config.js
-│   tailwind.config.js
-│   tsconfig.json
-│   README.md
+web
+
+web-SIH1754
 ├── app
 │   ├── admin
 │   │   ├── components
@@ -141,30 +136,21 @@ C:\Users\Adil Shaikh\Desktop\codes\web-SIH1754
 │   └── utils.ts
 ├── public
 │   ├── assets
-│   │   ├── apple.svg
-│   │   ├── arrow-up.svg
-│   │   ├── bill.png
-│   │   ├── close.svg
-│   │   ├── Discount.svg
-│   │   ├── facebook.svg
-│   │   ├── garph1.png
-│   │   ├── google.svg
-│   │   ├── index.js
-│   │   ├── indiapost3.png
-│   │   ├── instagram.svg
-│   │   ├── linkedin.svg
-│   │   ├── logo.svg
-│   │   ├── menu.svg
-│   │   ├── quotes.svg
-│   │   ├── Send.svg
-│   │   ├── Shield.svg
-│   │   ├── Star.svg
-│   │   ├── twitter.svg
 ├── styles
 │   ├── globals.css
 │   └── style.ts
 └── types
-    └── index.ts
+│   └── index.ts
+│
+│   .gitignore
+│   FirebaseConfig.js
+│   next.config.js
+│   package-lock.json
+│   package.json
+│   postcss.config.js
+│   tailwind.config.js
+│   tsconfig.json
+│   README.md
 ```
 
 
