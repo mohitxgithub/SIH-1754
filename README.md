@@ -216,7 +216,7 @@ npm expo start
 
 - **State Management**: 
   - React Context API
-  - Redux (if applicable)
+  - async storage
 
 - **Authentication**: 
   - Firebase Authentication
@@ -225,19 +225,15 @@ npm expo start
   - Firebase Analytics
   - Custom Data Visualizations
 
-## Contributing
 
-We welcome contributions to improve the platform! Please follow these steps:
+## Authors
 
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Implement your changes and ensure tests are passing.
-4. Submit a pull request for review.
+- [Prathamesh Jakkula](https://github.com/Prathamesh01110)
+- [Swara Patil](https://github.com/swara-patil-01)
+- [Satyaprakash Gupta](https://github.com/Satya481)
+- [Adarsh Singh](https://github.com/ctype)
+- [Prem Kakade](https://github.com/premexe)
+- [Mohit Kattungal](https://github.com/mohitxgithub)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Special thanks to the **Department of Post**, Ministry of Communications, for the opportunity to work on this project.
