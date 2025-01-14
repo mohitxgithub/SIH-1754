@@ -21,6 +21,10 @@ The web platform provides various administrative tools and data visualizations. 
 - **Authentication**: Secure login and registration, supporting multiple methods (Email, Phone Number, etc.).
 - **Sustainability Reports**: Generate reports on environmental impact, energy consumption, and more.
 
+### Website Images
+![Application Homepage](public/web.png)
+![Application UI](public/web2.png)
+
 ### Mobile App
 The mobile app focuses on providing seamless data collection, interaction, and offline functionality. Key features include:
 
@@ -32,6 +36,9 @@ The mobile app focuses on providing seamless data collection, interaction, and o
 - **Offline Data Entry**: Ability to collect data even when the device is offline, syncing with the server when a connection is restored.
 - **IoT-Based Data Entry**: Integration with IoT devices for automatic data collection (e.g., smart meters, sensors).
 - **Language Support**: Multi-language support to cater to diverse regions and users.
+
+  ### App Images
+![APP UI](public/app.png)
 
 ## Project Structure
 
