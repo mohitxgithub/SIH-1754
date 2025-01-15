@@ -228,12 +228,12 @@ npm expo start
 
 ## Authors
 
-- [Prathamesh Jakkula](https://github.com/Prathamesh01110)
+- [Mohit Kattungal](https://github.com/mohitxgithub)
 - [Swara Patil](https://github.com/swara-patil-01)
 - [Satyaprakash Gupta](https://github.com/Satya481)
 - [Adarsh Singh](https://github.com/ctype)
 - [Prem Kakade](https://github.com/premexe)
-- [Mohit Kattungal](https://github.com/mohitxgithub)
+- [Prathamesh Jakkula](https://github.com/Prathamesh01110)
 
 
 
